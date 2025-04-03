@@ -1,0 +1,50 @@
+﻿
+.bodyFont {
+    font-family: Verdana;
+    color:aliceblue;
+}
+
+a {
+    color: aliceblue;
+}
+
+#styleH3{
+    color:goldenrod;
+}
+.changeFont{
+    font-family:'Times New Roman', Times, serif;
+}
+#navbar{
+    background-color:blueviolet;
+    width:205px;
+    float:left;
+    height:800px;
+    text-align:center;
+    position:absolute;
+}
+#main{
+    background-color:crimson;
+    
+    width:1000px;
+    height:800px;
+    margin:auto;
+}
+
+#overlay{
+    height:100%;
+    width:100%;
+    position:fixed;
+    background-color:black;
+    top:0px;
+    left:0px;
+    opacity:0.5;
+    display:none;
+}
+#dropMenu{
+    display:none;
+    border:1px solid black;
+}
+li {
+    list-style: none;
+    margin-left:-40px;
+}
